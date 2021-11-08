@@ -2,6 +2,7 @@
 
 
 - Users login into the system with their own roles (admin or employee)
+
 ![image](https://user-images.githubusercontent.com/72665227/140740218-f3265cdc-3d12-48e8-92c1-d218d1c0f832.png)
 
 - After login successfuly, users will be redirected to main form of the program where users can book some trips for customer
